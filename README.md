@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey there 👋
+
+I'm **M0ddr**, I work as a Python developer with a focus on automation, data processing, and cloud-based solutions for enterprise applications, but I'm also interested in other facets of software engineering and DevOps.
+
+* 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Live in Scotland, based in Glasgow
+* 🌱 I’m currently learning Rust 🦀 and machine learning
+* 📫 You can contact me on [Bluesky](https://bsky.app/profile/moddr.xyz)
 
 <!--
 **m0ddr/m0ddr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
